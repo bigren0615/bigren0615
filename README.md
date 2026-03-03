@@ -6,7 +6,7 @@
 <!-- ====== TYPING INTRO ====== -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Ren;🎮+Unity+2D+Action+RPG+Developer;💻+Full-Stack+.NET+%26+React+Engineer;🎨+Illustrator+%26+Visual+Storyteller" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Ren;🎮+Unity+2D+Action+RPG+Developer;💻+Full-Stack+.NET+%26+React+Engineer;🎨+Illustrator" 
     alt="Typing Animation" 
   />
 </p>
