@@ -40,10 +40,10 @@ I build interactive experiences — from scalable web systems to polished 2D act
 
 ### How to Play?
 
-• WASD Move, Shift dash/dodge 
-• LMB Attack, Space Parry Attack 
-• When enemy flash red, you can Dodge attack 
-• When enemy flash yellow, you can Parry or Dodge attack 
+• WASD Move, Shift dash/dodge  
+• LMB Attack, Space Parry Attack  
+• When enemy flash red, you can Dodge attack  
+• When enemy flash yellow, you can Parry or Dodge attack  
 
 ### Try it here 👇
 
