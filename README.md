@@ -38,6 +38,13 @@ I build interactive experiences — from scalable web systems to polished 2D act
 • Parry/Dodge Combat  
 • PC/Mobile Ready/Controller Controls 
 
+### How to Play?
+
+• WASD Move, Shift dash/dodge
+• LMB Attack, Space Parry Attack
+• When enemy flash red, you can Dodge attack
+• When enemy flash yellow, you can Parry or Dodge attack
+
 ### Try it here 👇
 
 👉 https://bigren0615.github.io/Gravepulse-2D-RPG-game/
