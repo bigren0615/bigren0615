@@ -25,8 +25,8 @@ I build interactive experiences — from scalable web systems to polished 2D act
 ## 🎨 Illustration Portfolio
 
 <p align="center">
-  <img src="./assets/artwork/15.png" width="45%">
-  <img src="./assets/artwork/26.png" width="45%">
+  <img src="./assets/artwork/15.webp" width="45%">
+  <img src="./assets/artwork/26.webp" width="45%">
 </p>
 
 ---
